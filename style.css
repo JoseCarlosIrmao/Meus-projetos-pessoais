@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins';
+    color: #6633bb;
+    
+}
+
+div {
+    background-color: aqua;
+    border: 8px solid #dd77ff;
+    border-radius: 5%;
+    width: 500px;
+    height: 400px;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+.título {
+    margin: 20px 10px 20px 110px;
+}
+
+.valor-total {
+    margin-left: 40px;
+}
+
